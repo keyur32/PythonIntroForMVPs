@@ -1,6 +1,6 @@
-# PythonIntroForMVPs
-
-Hi folks, welcome to this repro for resources on MVPs to learn about Python and Notebooks
+# Python Intro For MVPs
+ 
+Hi folks, welcome to this repro for resources on MVPs to learn and explore Python and Notebooks.  Here you'll find a simple notebook to help you get started and additional examples.
 
 
 # Setup
