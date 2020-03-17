@@ -9,9 +9,9 @@ To get setup, we recommend you start with the [Anconda Distribution](//https://w
 After running setup, clone this repo, navigate to the folder and run the command `jupyter notebook`. You can then select one of the notebooks and try running them on your own.
 
 ## Tutorials
-[Python LinkedIn Learning](https://www.linkedin.com/learning/topics/python?u=3322)
-[Practical Business Python](https://pbpython.com/excel-pandas-comp.html) - great blog on how to use Python in business scenarios. Example compares Pandas to common Excel operations
-[Excel and Python LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel/managing-excel-with-python?u=3322)
+- [Python LinkedIn Learning](https://www.linkedin.com/learning/topics/python?u=3322)
+- [Practical Business Python](https://pbpython.com/excel-pandas-comp.html) - great blog on how to use Python in business scenarios, and examples comparing Pandas to common Excel operations
+- [Excel and Python LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel/managing-excel-with-python?u=3322)
 
 ## Python in Excel
 Today, you can try a various 3rd party libraries to work with Excel data in Python. Here are a couple that we found are being used by companies today:
